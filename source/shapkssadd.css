@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+#header-section {
+    padding: 40px 0  107px;
+}
+.header-logo {
+    display: inline-block;
+    padding: 30px;
+}
